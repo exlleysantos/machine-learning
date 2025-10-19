@@ -8,6 +8,7 @@ The goal is to document progress, build experimental projects, and develop a sol
 ## 📘 Purpose
 
 This repository aims to consolidate knowledge in:
+
 - Data manipulation and analysis
 - Preprocessing and feature engineering
 - Model creation, training, and evaluation
@@ -83,10 +84,12 @@ jupyter notebook
 ## 🚀 How to Use
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/<your-username>/machine-learning.git
    cd machine-learning
    ```
+
 2. Set up the environment as described above.  
 3. Open the notebooks and explore the code!  
 
@@ -96,17 +99,23 @@ jupyter notebook
 
 1. Fork the repository  
 2. Create a new branch for your contribution  
+
    ```bash
    git checkout -b feature/new-feature
    ```
-3. Commit your changes  
+
+3. Commit your changes
+
    ```bash
    git commit -m "Add new feature"
    ```
-4. Push your branch  
+
+4. Push your branch
+
    ```bash
    git push origin feature/new-feature
    ```
+
 5. Open a Pull Request  
 
 ---
@@ -116,7 +125,7 @@ jupyter notebook
 **Exlley C. Santos**  
 📍 Brasil  
 💼 [LinkedIn](https://www.linkedin.com/in/exlley-santos/)  
-📧 exlleyclemente@gmail.com  
+📧 <exlleyclemente@gmail.com>  
 
 ---
 
